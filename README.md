@@ -1,4 +1,4 @@
-# First Review Generator V1.0
+# First Review Generator V1.1
 This tool will help you automatically extract the exact date of the first review of an Asin.
 
 ## What you need:
